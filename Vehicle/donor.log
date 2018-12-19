@@ -1,0 +1,8 @@
+2018-12-17-main-INFO -com.cg.vehicle.vehi.log.Log4JPropertyFileDemo:do_something are 11.2
+2018-12-17-main-ERROR-com.cg.vehicle.vehi.log.Log4JPropertyFileDemo:value of x is null
+2018-12-17-main-INFO -com.cg.vehicle.vehi.log.Log4JPropertyFileDemo:do_something are 11.2
+2018-12-17-main-ERROR-com.cg.vehicle.vehi.log.Log4JPropertyFileDemo:value of x is null
+2018-12-17 11:27:00,294 INFO [com.cg.vehicle.vehi.log.Log4JPropertyFileDemo] - do_something are 11.2
+2018-12-17 11:27:00,294 ERROR [com.cg.vehicle.vehi.log.Log4JPropertyFileDemo] - value of x is null
+2018-12-17 11:32:26,305 INFO [com.cg.vehicle.vehi.log.Log4JPropertyFileDemo] - do_something are 11.2
+2018-12-17 11:32:26,305 ERROR [com.cg.vehicle.vehi.log.Log4JPropertyFileDemo] - value of x is null
